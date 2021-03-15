@@ -1,0 +1,2 @@
+# Implementa_registro_de_pedidos_en_l-nea_para_el-negocio
+Código para: La Empresa ION SAC es una empresa dedicada a la venta de dispositivos de comunicación y accesorios de cómputo en general el problema se presenta en el registro de los artículos solicitados e ingresados no teniendo un control ni responsable de los ingresos y salidas por tal motivo se le encomienda al equipo de desarrollo realizar el mantenimiento del módulo de venta utilizando patrón MVC implementando su respectivo CRUD. 
