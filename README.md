@@ -7,6 +7,8 @@ de los ingresos y salidas por tal motivo se le encomienda al equipo de desarroll
 realizar el mantenimiento del módulo de venta utilizando patrón MVC implementando<br>
 su respectivo CRUD.</p>
 
+<p>Para recalcar el index.py y la base de datos deben de estar en la misma carpeta para que corra sin problemas, saludos :)
+
 
 
 
