@@ -8,7 +8,7 @@ realizar el mantenimiento del módulo de venta utilizando patrón MVC implementa
 su respectivo CRUD.</p>
 
 # OjO
-<p>Para recalcar el index.py y la base de datos deben de estar en la misma carpeta para que corra sin problemas, saludos :)
+<p>Para recalcar, el index.py y la base de datos deben de estar en la misma carpeta para que corra sin problemas, saludos :)
 
 
 
